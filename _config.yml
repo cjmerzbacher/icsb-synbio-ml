@@ -23,7 +23,7 @@ email: c.j.merzbacher@sms.ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Workshop website for "Synthetic Biology in the age of Machine Learning" satellite session at ICSB 2022
 baseurl: "/icsb-synbio-ml" # the subpath of your site, e.g. /blog
-url: "https://cjmerzbacher.github.io/icsb-synbio-ml/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cjmerzbacher.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cjmerzbacher
 github_username:  cjmerzbacher
 
