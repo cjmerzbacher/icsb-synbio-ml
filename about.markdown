@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+baseurl: "/about"
 ---
 
 ![DNA AI Image](ai_dna.png)
