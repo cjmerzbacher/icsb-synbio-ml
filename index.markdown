@@ -18,7 +18,7 @@ title: "Workshop Schedule"
 <br>
 <br>
 
-**10:30** Dilan Pathirana. University of Bonn
+**10:30** Dilan Pathirana, University of Bonn
 : Efficient brute-force model selection by iterative elimination of less-useful moel subspaces
 <br>
 <br>
@@ -38,8 +38,8 @@ title: "Workshop Schedule"
 
 **12:30** Networking Lunch
 
-**1:30** Melania Nowicka, Freie Universität Berlin
-: Learning synthetic cell classifier designs with genetic algorithms and logic programming
+**1:30** Charlotte Merzbacher, University of Edinburgh
+: A fast and scalable machine learning approach for dynamic metabolic engineering
 <br>
 <br>
 
@@ -48,8 +48,8 @@ title: "Workshop Schedule"
 <br>
 <br>
 
-**2:30** Charlotte Merzbacher, University of Edinburgh
-: A fast and scalable machine learning approach for dynamic metabolic engineering
+**2:30** Melania Nowicka, Freie Universität Berlin
+: Learning synthetic cell classifier designs with genetic algorithms and logic programming
 <br>
 <br>
 
