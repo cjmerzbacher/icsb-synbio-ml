@@ -12,6 +12,8 @@ title: "Workshop Schedule"
 
 **Event Goal:** Host 10 talks and a self-catered networking lunch on research at the intersection of synthetic biology and machine learning. Talks will be 20 minutes each, with 10 minutes of question and discussion time. 
 
+**Event Location:** Humboldt-Universität zu Berlin, Philippstr. 13, 10115 Berlin, House 18, Room "Maud-Menten".
+ 
 ## Agenda
 **10:00** Ioana Gherman, University of Bristol
 : Accelerating whole-cell modelling with surrogate machine learning models
